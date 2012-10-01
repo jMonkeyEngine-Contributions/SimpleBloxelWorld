@@ -7,6 +7,10 @@
             <suite-component/>
             <module-dependencies/>
             <public-packages/>
+            <class-path-extension>
+                <runtime-relative-path>ext/ZMapSystemV2.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/ZMapSystemV2.jar</binary-origin>
+            </class-path-extension>
         </data>
     </configuration>
 </project>
